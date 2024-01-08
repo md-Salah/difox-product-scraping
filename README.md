@@ -1,2 +1,2 @@
-# wave-distribution-product-scraping
-This bot is developed to scrape product information from https://www.wave-distribution.de
+# difox-product-scraping
+This script will ensure our inventory updated according to https://www.difox.com/en
